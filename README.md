@@ -5,6 +5,8 @@
 [Google] [1]
 [1]: http://www.google.com   
 
+[Google](http://www.google.co.kr)
+
 ### 1. 프로젝트 소개   
 본 프로젝트에서는 고전 퍼즐 게임 테트리스를 이클립스를 활용하여 자바로 구현해보려고 한다.
 
