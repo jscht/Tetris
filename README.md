@@ -1,8 +1,11 @@
 # Tetris
 해당 링크에서 참고하여 제작
 Link: [rlaquddn05/tetris]
-[rlaquddn05/tetris]: https://github.com/rlaquddn05/tetris "go link"
-      
+[rlaquddn05/tetris]: https://github.com/rlaquddn05/tetris
+
+[Google] [1]
+[1]: http://www.google.com   
+
 ### 1. 프로젝트 소개   
 본 프로젝트에서는 고전 퍼즐 게임 테트리스를 이클립스를 활용하여 자바로 구현해보려고 한다.
 
