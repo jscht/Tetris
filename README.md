@@ -2,8 +2,12 @@
 해당 링크에서 참고하여 제작
 [rlaquddn05/tetris]: https://github.com/rlaquddn05/tetris
 
-[Google] [1]
-[1]: http://www.google.com   
+이 부분은 [Google] [1]을 참조하시면 됩니다.  
+<몇 줄 뒤>  
+이 부분도 [Google] [1]을 참조하시고 저 부분은 [Facebook] [2]을 참조하세요.  
+<글 마지막>  
+[1]: http://www.google.com  
+[2]: http://www.facebook.com
 
 [Google](http://www.google.co.kr)
 
