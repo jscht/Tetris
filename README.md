@@ -4,9 +4,7 @@
             
 ### 2. 사용된 프로그램
 > JDK 1.8
-Eclipse
-Eclipse
-      > Eclipse
+> Eclipse
 
 ### 3. 게임에 대한 설명, 세부 규칙
 ### 4. 프로그램의 장점 및 특징
