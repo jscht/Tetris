@@ -1,6 +1,6 @@
 # Tetris
 해당 링크에서 참고하여 제작
-[rlaquddn05/tetris]: https://github.com/rlaquddn05/tetris
+[rlaquddn05/tetris]: (https://github.com/rlaquddn05/tetris)
 
 [Google] [1]
 [1]: http://www.google.com   
