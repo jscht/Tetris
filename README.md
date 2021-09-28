@@ -1,5 +1,5 @@
 # Tetris
-해당 링크에서 참고하여 제작
+해당 링크에서 참고하여 제작   
 [rlaquddn05/tetris]: https://github.com/rlaquddn05/tetris   
 [how-to-write-by-markdown.md]: https://gist.github.com/ihoneymon/652be052a0727ad59601   
 [Google](http://www.google.co.kr)   
