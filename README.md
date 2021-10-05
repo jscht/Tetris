@@ -2,7 +2,8 @@
 해당 링크에서 참고하여 제작   
 [rlaquddn05/tetris]: https://github.com/rlaquddn05/tetris   
 [how-to-write-by-markdown.md]: https://gist.github.com/ihoneymon/652be052a0727ad59601   
-[Google](http://www.google.co.kr)   
+[hse30.tistory]: https://hse30.tistory.com/category/게임·컴퓨터/뿌요뿌요%20테트리스
+[harddrop]: https://harddrop.com/wiki/Tetris_Wiki
 
 ## 1. 프로젝트 소개   
 본 프로젝트에서는 고전 퍼즐 게임 테트리스를 이클립스를 활용하여 자바로 구현해보려고 한다.
