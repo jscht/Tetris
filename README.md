@@ -1,9 +1,4 @@
 # Tetris
-해당 링크에서 참고하여 제작   
-[rlaquddn05/tetris]: https://github.com/rlaquddn05/tetris   
-[how-to-write-by-markdown.md]: https://gist.github.com/ihoneymon/652be052a0727ad59601   
-[hse30.tistory]: https://hse30.tistory.com/category/게임·컴퓨터/뿌요뿌요%20테트리스   
-[harddrop]: https://harddrop.com/wiki/Tetris_Wiki   
 
 ## 1. 프로젝트 소개   
 본 프로젝트에서는 고전 퍼즐 게임 테트리스를 이클립스를 활용하여 자바(Java)로 구현해보려고 한다.
@@ -93,3 +88,10 @@ n번째 나오는 미노를 n번 미노라 하자.
 ## 5. 부족한, 힘들었던 부분 -> 해결한 부분
 ## 6. 개선해야할 부분
 ## 7. 시연
+
+
+해당 링크에서 참고하여 제작   
+[rlaquddn05/tetris]: https://github.com/rlaquddn05/tetris   
+[how-to-write-by-markdown.md]: https://gist.github.com/ihoneymon/652be052a0727ad59601   
+[hse30.tistory]: https://hse30.tistory.com/category/게임·컴퓨터/뿌요뿌요%20테트리스   
+[harddrop]: https://harddrop.com/wiki/Tetris_Wiki   
