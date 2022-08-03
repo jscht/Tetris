@@ -91,7 +91,5 @@ n번째 나오는 미노를 n번 미노라 하자.
 
 
 해당 링크에서 참고하여 제작   
-[rlaquddn05/tetris]: https://github.com/rlaquddn05/tetris   
 [how-to-write-by-markdown.md]: https://gist.github.com/ihoneymon/652be052a0727ad59601   
-[hse30.tistory]: https://hse30.tistory.com/category/게임·컴퓨터/뿌요뿌요%20테트리스   
 [harddrop]: https://harddrop.com/wiki/Tetris_Wiki   
